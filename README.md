@@ -11,3 +11,7 @@ also spend quite a bit of time programming in `golang` and `reactjs`.
 
 I've been using `AWS` since the beginning back in 2006/2007. I have extensive experience with most popular languages
 and technologies.
+
+## Contact
+
+I'm not very active on social networks, but you can find me on [LinkedIn](https://www.linkedin.com/in/shawncatanzarite/).
